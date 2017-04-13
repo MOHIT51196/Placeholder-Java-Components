@@ -6,6 +6,11 @@ import java.awt.RenderingHints;
 
 import javax.swing.JTextField;
 
+/**
+ * @author MOHIT MALHOTRA
+ * @since 10-3-2017
+ */
+
 @SuppressWarnings("serial")
 public class JPlaceHolderTextField extends JTextField {
 
